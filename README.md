@@ -1,5 +1,3 @@
-# Calculadora Con Javascript
-
 <!DOCTYPE html>
 <html>
 
